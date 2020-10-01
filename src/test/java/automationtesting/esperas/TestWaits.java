@@ -45,9 +45,7 @@ public class TestWaits {
     public void esperaExplicita(){
         driver.manage().window().maximize();
         driver.get(URL_PRUEBA_PRACTICE);
-
         WebDriverWait wait = new WebDriverWait(driver, 30);
-
         wait.until(visibilityOfElementLocated(By.linkText("Shop")));
         driver.findElement(By.linkText("Shop")).click();
     }

@@ -5,6 +5,7 @@ public class Constantes {
     public static final String URL_PRUEBA_PRACTICE = "http://practice.automationtesting.in/";
     public static final String URL_PRUEBA_DEMO_FRAME = "http://demo.automationtesting.in/Frames.html";
     public static final String URL_PRUEBA_DEMO_REGISTRO = "http://demo.automationtesting.in/Register.html";
+    public static final String URL_PRUEBA_DEMO_LOGIN = "http://practice.automationtesting.in/my-account/";
     public static final String URL_PRUEBA_DEMO_ALERTAS = "http://demo.automationtesting.in/Alerts.html";
     public static final String MY_ACCOUNT = "menu-item-50";
     public static final String USUARIO = "username";
@@ -19,6 +20,6 @@ public class Constantes {
     public static final String VALIDAR_TEXTO_LOGIN = "Hello pruebaregistro10 (not pruebaregistro10? Sign out)";
     public static final String VALIDAR_TEXTO_LOGIN_INCORRECTO = "ERROR: The password you entered for the username pruebaregistro10@correo.com is incorrect. Lost your password?";
     public static final String VALIDAR_TEXTO_AUTOMATION_DEMO_SITE = "Automation Demo Site";
-    public static final String SELECCIONAR_FEMENINO = "FeMale";
+    public static final String SELECCIONAR_FEMENINO = "Male";
 
 }

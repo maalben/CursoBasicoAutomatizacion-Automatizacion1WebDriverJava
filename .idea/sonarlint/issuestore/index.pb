@@ -15,3 +15,9 @@ _
 /src/test/java/automationtesting/Constantes.java,e\6\e6d78908b5e474efb6e9e22131a42ef1c25ac29c
 q
 Asrc/test/java/automationtesting/navegacionframes/TestUnFrame.java,2\c\2c63604671ac5fa0ca0290ce9a1a9d1777596db1
+u
+Esrc/test/java/automationtesting/recorridodinamico/TestRecorridos.java,4\8\4806c81fe799b30e52e187c10692709dfa6368fb
+f
+6src/test/java/automationtesting/esperas/TestWaits.java,4\7\47613493caeb34e877347791f0c43c1c0de166af
+h
+8src/test/java/automationtesting/alertas/TestAlertas.java,3\f\3fc76d226ac411bf498daf01f16d9fba5bf2802b

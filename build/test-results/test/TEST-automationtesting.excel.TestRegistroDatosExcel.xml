@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="automationtesting.excel.TestRegistroDatosExcel" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-01T02:46:53" hostname="DESKTOP-H0N5B2Q" time="25.748">
+  <properties/>
+  <testcase name="leerDatosExcel" classname="automationtesting.excel.TestRegistroDatosExcel" time="25.748"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 10056
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+sep 30, 2020 9:46:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
