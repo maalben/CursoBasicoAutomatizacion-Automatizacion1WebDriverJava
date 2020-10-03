@@ -21,3 +21,9 @@ f
 6src/test/java/automationtesting/esperas/TestWaits.java,4\7\47613493caeb34e877347791f0c43c1c0de166af
 h
 8src/test/java/automationtesting/alertas/TestAlertas.java,3\f\3fc76d226ac411bf498daf01f16d9fba5bf2802b
+l
+<src/test/java/automationtesting/ConstantesMapeosObjetos.java,e\3\e3a7d8bb28316dc1eb7fc528827ad4474503dec3
+m
+=src/test/java/automationtesting/excel/TestLeerDatosExcel.java,f\b\fb39f52b27ffe8a73e8bcc2f8e9c9d0eeb13f712
+q
+Asrc/test/java/automationtesting/excel/TestRegistroDatosExcel.java,d\b\db163232b9d704f797b8301e260bcb035460e0f4

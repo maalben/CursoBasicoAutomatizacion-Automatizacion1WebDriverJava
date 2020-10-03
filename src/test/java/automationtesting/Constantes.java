@@ -3,9 +3,12 @@ package automationtesting;
 public class Constantes {
 
     public static final String URL_PRUEBA_PRACTICE = "http://practice.automationtesting.in/";
+    public static final String URL_PRUEBA_TABLAS = "http://demo.guru99.com/test/web-table-element.php";
+    public static final String URL_PRACTICA_VENTANAS = "http://demo.automationtesting.in/Windows.html";
     public static final String URL_PRUEBA_DEMO_FRAME = "http://demo.automationtesting.in/Frames.html";
     public static final String URL_PRUEBA_DEMO_REGISTRO = "http://demo.automationtesting.in/Register.html";
     public static final String URL_PRUEBA_DEMO_LOGIN = "http://practice.automationtesting.in/my-account/";
+    public static final String URL_REGISTRO_CRM = "https://www.zoho.com/es-xl/crm/";
     public static final String URL_PRUEBA_DEMO_ALERTAS = "http://demo.automationtesting.in/Alerts.html";
     public static final String MY_ACCOUNT = "menu-item-50";
     public static final String USUARIO = "username";
